@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace TestTestingGit.Services {
     public class Calc {
         public int Sum(int first, int second) {
-            return first + second;
+            return first - second;
         }
     }
 }
